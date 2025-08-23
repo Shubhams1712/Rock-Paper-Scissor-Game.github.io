@@ -15,9 +15,9 @@ This project demonstrates the use of DOM manipulation, event handling, and basic
 ---
 
 ## 📂 Project Structure  
-├── index.html      # Main HTML file
-├── style.css       # Styling for the game
-└── script.js       # JavaScript game logic
+  ├── index.html      # Main HTML file
+  ├── style.css       # Styling for the game
+  └── script.js       # JavaScript game logic
 
 ---
 
