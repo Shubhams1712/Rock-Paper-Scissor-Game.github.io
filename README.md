@@ -1,12 +1,12 @@
 ```markdown
-🎮 Rock Paper Scissors Game  
+# 🎮 Rock Paper Scissors Game  
 
 A simple and fun **Rock Paper Scissors** game built using **HTML, CSS, and JavaScript**.  
 This project demonstrates the use of DOM manipulation, event handling, and basic game logic in JavaScript.  
 
 ---
 
-**🚀 Features**  
+## 🚀 Features 
 - 🖱️ User can choose between Rock, Paper, or Scissors  
 - 🤖 Computer makes a random choice  
 - 🏆 Game displays the result (Win / Lose / Draw)  
@@ -48,7 +48,8 @@ This project demonstrates the use of DOM manipulation, event handling, and basic
 (Add a screenshot of your game here by uploading it to the repo and using Markdown like:)
 
 ```markdown
-![Game Screenshot](screenshot.png)
+![<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/91759ac8-3214-44c1-8516-96cc5c93f136" />
+](screenshot.png)
 ```
 
 ---
@@ -85,7 +86,4 @@ This project is licensed under the **MIT License** – feel free to use, modify,
 
 ✨ Made with ❤️ using HTML, CSS, and JavaScript
 
-```
-
-Do you want me to also **make a short GitHub-style project description (one-liner + tags)** for your repo? That would show up at the top under your repo name.
 ```
