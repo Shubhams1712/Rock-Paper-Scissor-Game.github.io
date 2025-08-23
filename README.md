@@ -23,8 +23,7 @@ This project demonstrates the use of DOM manipulation, event handling, and basic
 
 ## 📸 Demo Screenshot
 
-![Game Screenshot](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/91759ac8-3214-44c1-8516-96cc5c93f136" />
-)
+![Game Screenshot](assets/Game-Screenshot.png)
 
 ---
 
