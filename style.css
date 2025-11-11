@@ -11,7 +11,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(56deg,#103958,#002E5D,#091827);
+background: linear-gradient(135deg, #4facfe, #00f2fe);
+    /* background-color: #FB2C36; */
 }
 
 .container {
@@ -48,10 +49,13 @@
 .result-area {
     position: absolute;
     top: 0;
+    min-width: 80%;
+    margin: auto;
+    text-align: center;
 }
 
 #result {
-    width: 100px;
+    width: 100%;
     color: #ffffff;
     font-weight: 500;
     font-size: 24px;
@@ -81,14 +85,14 @@
     width: 20vw;
     height: auto;
     transform: rotate(90deg) scaleX(-1);
-    filter: drop-shadow(20px 0px 10px #00000060);
+    filter: drop-shadow(2px -4px 5px #00000060);
 }
 
 .computer img {
     width: 20vw;
     height: auto;
     transform: rotate(-90deg);
-    filter: drop-shadow(20px 0px 10px #00000060);
+    filter: drop-shadow(2px -4px 5px #00000060);
 }
 
 .buttons {
@@ -103,15 +107,16 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(180deg, #ffffff, #968989);
+    background-color: #efefef;
+    /* background: linear-gradient(180deg, #ffffff, #968989); */
     transition: 0.2s ease;
     cursor: pointer;
 }
 
 .game-btn img {
-    width: 35%;
+    width: 5vw;
     height: auto;
-    filter: drop-shadow(1px 1px 10px);
+    filter: drop-shadow(1px 1px 1px);
 }
 
 .game-btn:hover {

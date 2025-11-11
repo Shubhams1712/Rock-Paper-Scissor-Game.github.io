@@ -10,9 +10,9 @@ const computerImg = document.querySelector(".computer img");
 
 const choices = ['rock', 'paper', 'scissor'];
 const choiceToImage = {
-    rock: "assets/raised-fist_270a.png",
-    paper: "assets/hand-with-fingers-splayed_1f590-fe0f.png",
-    scissor: "assets/victory-hand_270c-fe0f.png"
+    rock: "assets/Fist-Image.png",
+    paper: "assets/Paper-Image.png",
+    scissor: "assets/Scissor-Image.png"
 };
 
 function getComputerChoice() {
